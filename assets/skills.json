@@ -1,0 +1,12 @@
+{
+  "title": "My Skills",
+  "axes": [
+    { "label": "Python", "value": 70 },
+    { "label": "Machine Learning", "value": 60 },
+    { "label": "Git", "value": 65 },
+    { "label": "C++", "value": 55 },
+    { "label": "SQL", "value": 50 },
+    { "label": "DSA", "value": 55 },
+    { "label": "AWS", "value": 40 }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "Vathmos_ET",
+      "description": "Multi-agent AI CRM system automating lead scoring, outreach, deal-risk and churn prediction using LLaMA 3.3 via Groq."
+    },
+    {
+      "repo": "TicketEasy_Tech_Slayers",
+      "description": "AI-powered IT helpdesk (built for Smart India Hackathon) with NLP ticket classification, automated routing, and an AI chatbot — Flask + LLM-powered."
+    },
+    {
+      "repo": "FUTURE_ML_02",
+      "description": "Customer churn prediction system using Logistic Regression and Random Forest, with EDA and feature engineering for retention insights."
+    },
+    {
+      "repo": "movies_recommend",
+      "description": "Content-based movie recommendation engine using Python, Pandas, and Scikit-learn to suggest films from metadata, genres, and cast."
+    }
+  ]
+}
