@@ -26,7 +26,24 @@
 
 ```console
 $ cat about.txt
+
+Hi, I'm **Rajeev Kulkarni**, an AI/ML engineering student interested in building practical software and intelligent systems.
+
+- Currently exploring **Artificial Intelligence & Machine Learning**
+- Learning **Python, C, Git, GitHub and AWS**
+- Building projects to turn ideas into practical solutions
+- Constantly learning, experimenting and improving
+
+Important:
+
+- Keep the existing profile design and all other sections unchanged.
+- Do NOT move, delete, or regenerate the Contribution Snake.
+- Do NOT modify the assets, workflows, project cards, radars, stats, or links.
+- Do NOT create any new files.
+- Do NOT commit or push anything.
+- After editing, verify that README.md has valid Markdown/HTML and no merge-conflict markers.
 ```
+
 ---
 
 <h2 align="center">Contribution Snake</h2>
