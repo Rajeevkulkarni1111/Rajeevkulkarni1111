@@ -20,11 +20,13 @@
 
 </div>
 
+---
 
 ## `~/` whoami
 
 ```console
 $ cat about.txt
+```
 
 <h3 align="center">🛠️ Toolbox</h3>
 
@@ -131,6 +133,7 @@ $ cat about.txt
 
 </tr>
 </table>
+
 <sub>
 
 | Project | Stack | Repository |
