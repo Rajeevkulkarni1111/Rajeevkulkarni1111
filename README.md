@@ -27,6 +27,17 @@
 ```console
 $ cat about.txt
 ```
+---
+
+<h2 align="center">Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajeevkulkarni1111/Rajeevkulkarni1111/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajeevkulkarni1111/Rajeevkulkarni1111/output/snake.svg">
+    <img src="https://raw.githubusercontent.com/Rajeevkulkarni1111/Rajeevkulkarni1111/output/snake.svg" width="900" alt="GitHub contribution snake animation">
+  </picture>
+</p>
 
 <h3 align="center">🛠️ Toolbox</h3>
 
