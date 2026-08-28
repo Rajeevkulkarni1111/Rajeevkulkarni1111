@@ -11,21 +11,22 @@
 <a href="https://www.linkedin.com/in/rajeev-kulkarni-054008269">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+## `~/` whoami
 
-<a href="mailto:rajeevkulkarni1111@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
+```console
+$ cat about.txt
+```
 <img src="https://komarev.com/ghpvc/?username=Rajeevkulkarni1111&color=39d353&label=profile+views">
 
 </div>
 
 ---
 
-
+## `~/` whoami
 
 ```console
-
+$ cat about.txt
+```
 
 Hi, I'm **Rajeev Kulkarni**, an AI/ML engineering student interested in building practical software and intelligent systems.
 
@@ -33,8 +34,6 @@ Hi, I'm **Rajeev Kulkarni**, an AI/ML engineering student interested in building
 - Learning **Python, C, Git, GitHub and AWS**
 - Building projects to turn ideas into practical solutions
 - Constantly learning, experimenting and improving
-
-
 
 ---
 
