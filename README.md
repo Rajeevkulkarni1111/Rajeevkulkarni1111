@@ -11,11 +11,6 @@
 <a href="https://www.linkedin.com/in/rajeev-kulkarni-054008269">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-## `~/` whoami
-
-```console
-$ cat about.txt
-```
 <img src="https://komarev.com/ghpvc/?username=Rajeevkulkarni1111&color=39d353&label=profile+views">
 
 </div>
