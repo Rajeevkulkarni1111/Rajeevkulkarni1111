@@ -25,7 +25,7 @@
 
 
 ```console
-$ cat about.txt
+
 
 Hi, I'm **Rajeev Kulkarni**, an AI/ML engineering student interested in building practical software and intelligent systems.
 
@@ -34,15 +34,7 @@ Hi, I'm **Rajeev Kulkarni**, an AI/ML engineering student interested in building
 - Building projects to turn ideas into practical solutions
 - Constantly learning, experimenting and improving
 
-Important:
 
-- Keep the existing profile design and all other sections unchanged.
-- Do NOT move, delete, or regenerate the Contribution Snake.
-- Do NOT modify the assets, workflows, project cards, radars, stats, or links.
-- Do NOT create any new files.
-- Do NOT commit or push anything.
-- After editing, verify that README.md has valid Markdown/HTML and no merge-conflict markers.
-```
 
 ---
 
@@ -161,14 +153,3 @@ Important:
 
 </tr>
 </table>
-
-<sub>
-
-| Project | Stack | Repository |
-|---|---|---|
-| [Vathmos_ET](https://github.com/Rajeevkulkarni1111/Vathmos_ET) | JavaScript | [GitHub](https://github.com/Rajeevkulkarni1111/Vathmos_ET) |
-| [TicketEasy_Tech_Slayers](https://github.com/Rajeevkulkarni1111/TicketEasy_Tech_Slayers) | HTML | [GitHub](https://github.com/Rajeevkulkarni1111/TicketEasy_Tech_Slayers) |
-| [FUTURE_ML_02](https://github.com/Rajeevkulkarni1111/FUTURE_ML_02) | Jupyter Notebook | [GitHub](https://github.com/Rajeevkulkarni1111/FUTURE_ML_02) |
-| [movies_recommend](https://github.com/Rajeevkulkarni1111/movies_recommend) | Python | [GitHub](https://github.com/Rajeevkulkarni1111/movies_recommend) |
-
-</sub>
